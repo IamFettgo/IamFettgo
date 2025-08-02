@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @IamFettgo
-- 👀 I’m interested in Minecraft!
-Minecraft is an Immortal GAME! 
-- 🌱 I’m currently learning Java.
-- 💞️ I’m developing LPaFWorld reMyrized 0.8!
-- 📫 How to reach me : fe2o3go@gmail.com
+- 👋 Hifumi Mizuharaです！こんにちは！
+- 👀 マイクラやっています。MOD開発を勉強しています。
+- 🌱 Kotlinを勉強中。Pythonを書くことも可能。
+- 💞️ いづれは子供の頃構想していた「LPaF」というゲームを形にしたい。
+- 📫 How to reach me : fe2o3go@gmail.com; hifumi.mizuhara@gmail.com
 
 <!---
 IamFettgo/IamFettgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
